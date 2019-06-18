@@ -1,2 +1,2 @@
 # microshell.c
-A micro-shell made in C language
+Small version of terminal shell written in C language.
